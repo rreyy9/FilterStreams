@@ -1,8 +1,8 @@
 {
+  "homepage": "https://rreyy9/github.io/FilterStreams/",
   "name": "streamlist",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rreyy9.github.io/FilterStreams/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -14,7 +14,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
