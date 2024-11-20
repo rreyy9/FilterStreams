@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/FilterStreams/static/css/main.e756b12f.css",
-    "main.js": "/github.io/FilterStreams/static/js/main.e5569e08.js",
-    "static/js/453.79e0f58d.chunk.js": "/github.io/FilterStreams/static/js/453.79e0f58d.chunk.js",
-    "index.html": "/github.io/FilterStreams/index.html",
-    "main.e756b12f.css.map": "/github.io/FilterStreams/static/css/main.e756b12f.css.map",
-    "main.e5569e08.js.map": "/github.io/FilterStreams/static/js/main.e5569e08.js.map",
-    "453.79e0f58d.chunk.js.map": "/github.io/FilterStreams/static/js/453.79e0f58d.chunk.js.map"
+    "main.css": "/FilterStreams/static/css/main.e756b12f.css",
+    "main.js": "/FilterStreams/static/js/main.0a6bc80b.js",
+    "static/js/453.79e0f58d.chunk.js": "/FilterStreams/static/js/453.79e0f58d.chunk.js",
+    "index.html": "/FilterStreams/index.html",
+    "main.e756b12f.css.map": "/FilterStreams/static/css/main.e756b12f.css.map",
+    "main.0a6bc80b.js.map": "/FilterStreams/static/js/main.0a6bc80b.js.map",
+    "453.79e0f58d.chunk.js.map": "/FilterStreams/static/js/453.79e0f58d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e756b12f.css",
-    "static/js/main.e5569e08.js"
+    "static/js/main.0a6bc80b.js"
   ]
 }
