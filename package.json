@@ -1,5 +1,5 @@
 {
-  "homepage": "https://rreyy9/github.io/FilterStreams/",
+  "homepage": "http://rreyy9.github.io/FilterStreams",
   "name": "streamlist",
   "version": "0.1.0",
   "private": true,
@@ -14,7 +14,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
